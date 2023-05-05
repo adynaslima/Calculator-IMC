@@ -25,3 +25,13 @@ body {
 #img img {
     width: 30rem;
 }
+
+#calculator {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 3rem;
+    color: #c3c3c3;
+    background-color: #3f3f3f;
+    border-radius: 10px;
+}
