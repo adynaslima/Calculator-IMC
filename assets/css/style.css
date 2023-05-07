@@ -61,3 +61,26 @@ body {
     border-radius: 5px;
     margin-top: 5px;
 }
+
+.input-field i, .input-field span {
+    color: #161616;
+    font-size: 1.5rem;
+    padding: 0.6rem;
+}
+
+.input-field input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    font-size: 1.5rem;
+    color: #e1e1e1;
+    padding: 0 0.5rem;
+}
+
+.input-field input::-webkit-outer-spin-button, .input-field input::-webkit-inner-spin-button {
+    appearance: none;
+}
+
+.input-field input:focus {
+    outline: none;
+}
