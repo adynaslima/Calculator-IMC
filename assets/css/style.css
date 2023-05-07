@@ -138,3 +138,7 @@ body {
 #more-info a:hover {
     color: #e1e1e1;
 }
+
+.hidden {
+    display: none;
+}
