@@ -19,7 +19,7 @@ body {
 #container {
     display: flex;
     align-items: center;
-    gap: 5rem;
+    gap: 3rem;
 }
 
 #img img {
@@ -143,7 +143,7 @@ body {
     display: ;
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 480px) {
 
     body {
         height: 100%;
